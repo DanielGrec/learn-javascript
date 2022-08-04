@@ -42,3 +42,12 @@ li {
 a {
 	color: #5f9341;
 }
+
+#container {
+	width: 100%;
+}
+
+img {
+	border-radius: 50px;
+	width: 200px;
+}
